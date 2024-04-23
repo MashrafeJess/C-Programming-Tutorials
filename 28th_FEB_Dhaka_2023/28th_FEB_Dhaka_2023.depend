@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677524853 source:c:\c++,programming tutorials\28th_feb_dhaka_2023\main.cpp
+	<iostream>
+
+1677525442 source:c:\c++,programming tutorials\28th_feb_dhaka_2023\arraysinc++.cpp
+	<iostream>
+	<cmath>
+
